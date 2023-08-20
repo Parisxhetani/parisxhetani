@@ -6,16 +6,15 @@
 
 <!-- Location -->
 <p align="center">
-  🌍 [Display current local time](https://newepoka.com)
+  🌍 (https://newepoka.com)
 </p>
 
 <!-- Social Links -->
 <p align="center">
   📫 Connect with me:
-  <a href="#"><img src="social-icon-1.png" alt="Twitter"></a>
-  <a href="#"><img src="social-icon-2.png" alt="LinkedIn"></a>
-  <a href="#"><img src="social-icon-3.png" alt="Portfolio"></a>
-  <a href="#"><img src="social-icon-4.png" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/paris-xhetani-/">🔗LinkedIn</a>
+
+  <a href="parisxhetani@gmail.com">✉️Email<a>
 </p>
 
 <!-- Divider -->
