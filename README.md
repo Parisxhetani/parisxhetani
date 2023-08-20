@@ -13,7 +13,6 @@
 <p align="center">
   📫 Connect with me:
   <a href="https://www.linkedin.com/in/paris-xhetani-/">🔗LinkedIn</a>
-
   <a href="parisxhetani@gmail.com">✉️Email<a>
 </p>
 
