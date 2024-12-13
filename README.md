@@ -1,12 +1,11 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm Parisxhetani</h1>
+<h1 align="center"> Hello,</h1>
 
 <!-- Bio -->
-<p align="center">Coding enthusiast and passionate programmer 🚀</p>
+<p align="center"> </p>
 
 <!-- Location -->
 <p align="center">
-  🌍 (https://newepoka.com)
 </p>
 
 <!-- Social Links -->
